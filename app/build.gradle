@@ -1,9 +1,9 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.hilman.cobalib"
+//        applicationId "com.example.hilman.cobalib"
         minSdkVersion 22
         targetSdkVersion 28
         versionCode 1
